@@ -52,3 +52,7 @@ MikoAI is an innovative mobile application designed to simplify daily life at ou
 
 ### Video Demonstrations
 Below are video links showcasing the final product and its functionalities:
+
+Authentication            |  FAQ                       | LLM                       | Employees
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/KamilFicerman/DepartmentChatbot/blob/main/gifs/VID_20240602204116.gif" width="200" height="500" />  |  <img src="https://github.com/KamilFicerman/DepartmentChatbot/blob/main/gifs/VID_20240602212114.gif" width="200" height="500" /> |  <img src="https://github.com/KamilFicerman/DepartmentChatbot/blob/main/gifs/VID_20240602212425.gif" width="200" height="500" /> |  <img src="https://github.com/KamilFicerman/DepartmentChatbot/blob/main/gifs/VID_20240602212650.gif" width="200" height="500" />
